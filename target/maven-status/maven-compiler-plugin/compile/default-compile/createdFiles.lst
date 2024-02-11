@@ -1,0 +1,10 @@
+myjgApp/login/WelcomeController.class
+myjgApp/hello/SayHelloController.class
+myjgApp/todo/TodoController.class
+myjgApp/todo/TodoRepository.class
+myjgApp/todo/TodoService.class
+myjgApp/todo/Todo.class
+myjgApp/login/AuthenticationService.class
+myjgApp/SpringSecurityConfiguration.class
+myjgApp/MyjgAppApplication.class
+myjgApp/todo/TodoControllerJpa.class

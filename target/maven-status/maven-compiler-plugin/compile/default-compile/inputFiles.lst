@@ -1,0 +1,10 @@
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/MyjgAppApplication.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/todo/TodoService.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/todo/TodoRepository.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/todo/Todo.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/todo/TodoControllerJpa.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/login/WelcomeController.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/login/AuthenticationService.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/todo/TodoController.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/SpringSecurityConfiguration.java
+/Users/jay/IdeaProjects/TodoApplication/src/main/java/myjgApp/hello/SayHelloController.java
